@@ -1,4 +1,4 @@
-# Discord-token-checker
+# Discord-token-sorter
 **Sorts all tokens into categories (Email verified, phone verified, unclaimed, unverified, full verified)**
 
 # How To Run?
